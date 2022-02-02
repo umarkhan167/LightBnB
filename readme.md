@@ -6,8 +6,8 @@ This repository is the starter code for the project:
 
 The purpose of this project is to design a database and use server-side JavaScript to display the information from queries to web pages. We will be able to apply our existing knowledge of complex SQL queries, database and ERD (entity relationship diagram) design to integrate the database with a Node backend.
 
-![Desktop Design](https://github.com/umarkhan167/my-tweeter/blob/master/public/images/tweeter1.png)
-![Mobile Design](https://github.com/umarkhan167/my-tweeter/blob/master/public/images/tweeter2.png)
+![Desktop Design](https://github.com/umarkhan167/LightBnB/blob/master/Photos/BNB-1.png)
+![Mobile Design](https://github.com/umarkhan167/LightBnB/blob/master/Photos/BNB-2.png)
 
 ## Getting Started
 
